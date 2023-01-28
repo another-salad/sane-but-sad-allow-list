@@ -1,15 +1,15 @@
-!
-! Title: Allow list for AdGuard
-! Description: Based off a simple allowed list filter from pihole :0
-! Compiled by: Another-Salad
-!
-||files.slack.com^
-||android.clients.google.com^
-||clients1.google.com^
-||clients2.google.com^
-||clients3.google.com^
-||clients4.google.com^
-||clients5.google.com^
-||clients6.google.com^
-||s.youtube.com^
-||video-stats.l.google.com^
+#
+# Title: Allow list for AdGuard
+# Description: Based off a simple allowed list filter from pihole :0
+# Compiled by: Another-Salad
+#
+@@||files.slack.com^
+@@||android.clients.google.com^
+@@||clients1.google.com^
+@@||clients2.google.com^
+@@||clients3.google.com^
+@@||clients4.google.com^
+@@||clients5.google.com^
+@@||clients6.google.com^
+@@||s.youtube.com^
+@@||video-stats.l.google.com^
