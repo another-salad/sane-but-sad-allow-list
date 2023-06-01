@@ -1,0 +1,7 @@
+#
+# Title: Ban list for AdGuard
+# Description: Blocking stuff that is bad and sad
+# Compiled by: Another-Salad
+#
+||*.zip^
+||*.mov^
